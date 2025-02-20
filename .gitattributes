@@ -1,0 +1,8 @@
+# Automatically detect text files and normalize line endings to LF
+* text=auto
+
+# Treat Markdown files as text
+*.md text
+
+# Treat C++ files as text
+*.c text

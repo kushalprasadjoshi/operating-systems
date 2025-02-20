@@ -1,0 +1,11 @@
+# Ignore all log files
+*.log
+
+# Ignore all executable files
+*.exe
+
+# Ignore temporary code runner files
+tempCodeRunnerFile.*
+
+# Ignore all the temporary files
+*.tmp
